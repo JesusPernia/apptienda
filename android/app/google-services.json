@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999658223369",
+    "project_id": "tiendaapp-9dde8",
+    "storage_bucket": "tiendaapp-9dde8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999658223369:android:b23c95ba8c09f4bf6745d8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmnK2bqSflKkpVd4eLjPI_VY8T3zuI6Jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
